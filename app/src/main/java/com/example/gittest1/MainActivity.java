@@ -11,14 +11,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
+        //pull request boris test 1
 
-        //1
-        //2
-        //3br1
-        //3br2
-        //3br1-2
-        //3br2-2
-        //5
-        //boris love chlen
     }
 }
