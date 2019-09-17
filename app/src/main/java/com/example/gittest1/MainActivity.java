@@ -16,5 +16,7 @@ public class MainActivity extends AppCompatActivity {
         //2
         //3br1
         //3br2
+        //3br1-2
+        //3br2-2
     }
 }
